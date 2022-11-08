@@ -3,8 +3,13 @@
     <head>
         <meta charset="UTF-8"
         <title>Blogueiras no Mundo da Moda</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
+    
+    
+    </body>
+</html>
      
         <h1>Blogueiras no Mundo da MODA</h1>
         <p>São as blogueiras do mundo fashion que,atualmente,cria as tendências e,por conta disso,se tornaram as queridinhas de marcas em todo o                   mundo.Nesse contexto,as blogueiras de moda se estabelecem como formadoras de opinião e influenciadoras.<p>
